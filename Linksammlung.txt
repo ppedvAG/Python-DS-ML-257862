@@ -1,0 +1,10 @@
+Linksammlung
+
+Datenbankanbindung:
+
+influx verwenden 
+  https://www.influxdata.com/blog/getting-started-with-influxdb-and-pandas/
+sql verwenden 
+  https://deepnote.com/guides/sql/how-to-connect-to-a-sql-database-in-a-juptyer-notebook
+influx python client doku
+  https://influxdb-client.readthedocs.io/en/stable/api.html#influxdb_client.QueryApi.query_data_frame
