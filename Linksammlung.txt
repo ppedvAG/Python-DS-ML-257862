@@ -8,3 +8,17 @@ sql verwenden
   https://deepnote.com/guides/sql/how-to-connect-to-a-sql-database-in-a-juptyer-notebook
 influx python client doku
   https://influxdb-client.readthedocs.io/en/stable/api.html#influxdb_client.QueryApi.query_data_frame
+
+
+Mashine Learning YouTube Videos
+Supervised Lerarning
+  https://www.youtube.com/watch?v=gKrv-liMBmY
+
+Unsupervised Learning
+  https://www.youtube.com/watch?v=kpyDgjQ09ZY&t=31s
+
+Reinforcement Learning
+  https://www.youtube.com/watch?v=L_4BPjLBF4E
+
+Inside eines Large Language Model
+  https://youtu.be/wjZofJX0v4M?t=82
