@@ -22,3 +22,21 @@ Reinforcement Learning
 
 Inside eines Large Language Model
   https://youtu.be/wjZofJX0v4M?t=82
+
+
+Aus der Powerwoche Github
+ - https://github.com/ppedvAG/Power-WochePython-VomAnfaengerzumDataScienceProfi-240757
+
+Plugins, die man braucht
+ - jupyter lab
+ - numpy
+ - pandas
+ - matplotlib
+
+ - scikit-learn
+ - imbalanced-learn
+ - tensorflow
+
+ - Gymnasium -> Reinfocement Learning
+ - stable-baselines3 -> Reinfocement Learning
+
